@@ -3,6 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31702.278
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Задание_1.15", "Задание_1.15\Задание_1.15.vcxproj", "{7C80888D-01FA-4E05-AACF-AEE09F410979}"
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Задание_1.2", "Задание_1.2\Задание_1.2.vcxproj", "{3CC89D41-0489-4ACF-BA35-67B540B64381}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Заданиие_3а", "Заданиие_3а\Заданиие_3а.vcxproj", "{3287D8A6-779B-451A-86A1-7ED58295B115}"
@@ -15,6 +16,14 @@ Global
 		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C80888D-01FA-4E05-AACF-AEE09F410979}.Debug|x64.ActiveCfg = Debug|x64
+		{7C80888D-01FA-4E05-AACF-AEE09F410979}.Debug|x64.Build.0 = Debug|x64
+		{7C80888D-01FA-4E05-AACF-AEE09F410979}.Debug|x86.ActiveCfg = Debug|Win32
+		{7C80888D-01FA-4E05-AACF-AEE09F410979}.Debug|x86.Build.0 = Debug|Win32
+		{7C80888D-01FA-4E05-AACF-AEE09F410979}.Release|x64.ActiveCfg = Release|x64
+		{7C80888D-01FA-4E05-AACF-AEE09F410979}.Release|x64.Build.0 = Release|x64
+		{7C80888D-01FA-4E05-AACF-AEE09F410979}.Release|x86.ActiveCfg = Release|Win32
+		{7C80888D-01FA-4E05-AACF-AEE09F410979}.Release|x86.Build.0 = Release|Win32
 		{3CC89D41-0489-4ACF-BA35-67B540B64381}.Debug|x64.ActiveCfg = Debug|x64
 		{3CC89D41-0489-4ACF-BA35-67B540B64381}.Debug|x64.Build.0 = Debug|x64
 		{3CC89D41-0489-4ACF-BA35-67B540B64381}.Debug|x86.ActiveCfg = Debug|Win32
